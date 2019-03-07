@@ -30,8 +30,3 @@ Bonus! We have also included a repository and analysis of several [honeypots](ho
 | [Variable Shadowing](variable%20shadowing/) | Local variable name is identical to one in outer scope |
 | [Wrong Constructor Name](wrong_constructor_name) | Anyone can become owner of contract due to missing constructor |
 
-## Credits
-
-These examples are developed and maintained by [Trail of Bits](https://www.trailofbits.com/). Contributions are encouraged and are covered under our [bounty program](https://github.com/trailofbits/not-so-smart-contracts/wiki#bounties).
-
-If you have questions, problems, or just want to learn more, then join the #ethereum channel on the [Empire Hacking Slack](https://empireslacking.herokuapp.com/) or [contact us](https://www.trailofbits.com/contact/) directly.
